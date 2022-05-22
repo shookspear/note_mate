@@ -1,18 +1,10 @@
-[
-    {
+{
+    "notes": [
+      {
+        "id": "1",
         "title":"First Note",
         "text":"Test text"
-    },
-    {
-        "title":"Second Note",
-        "text":"Test text"
-    },
-    {
-        "title":"Note Three",
-        "text":"Test text"
-    },
-    {
-        "title":"Fourth Time",
-        "text":"Test text"
-    }
-]
+      }
+    ]
+  }
+  
