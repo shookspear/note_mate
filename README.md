@@ -8,7 +8,7 @@ This is a note taking application using an Express.js back end to save and retri
 
 
 ## Screenshot
-![Note Mate](public/images/screenshot.png)
+![Note Mate](public/assets/images/screenshot.png)
 
 
 ## Built With
